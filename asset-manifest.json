@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nerocui/neon-todo/static/css/main.e6c13ad2.css",
-    "main.js": "/nerocui/neon-todo/static/js/main.b00d3df1.js",
-    "static/js/787.a9d6e877.chunk.js": "/nerocui/neon-todo/static/js/787.a9d6e877.chunk.js",
-    "index.html": "/nerocui/neon-todo/index.html",
-    "main.e6c13ad2.css.map": "/nerocui/neon-todo/static/css/main.e6c13ad2.css.map",
-    "main.b00d3df1.js.map": "/nerocui/neon-todo/static/js/main.b00d3df1.js.map",
-    "787.a9d6e877.chunk.js.map": "/nerocui/neon-todo/static/js/787.a9d6e877.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.cd9dd19d.js",
+    "static/js/787.a9d6e877.chunk.js": "/static/js/787.a9d6e877.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.cd9dd19d.js.map": "/static/js/main.cd9dd19d.js.map",
+    "787.a9d6e877.chunk.js.map": "/static/js/787.a9d6e877.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b00d3df1.js"
+    "static/js/main.cd9dd19d.js"
   ]
 }
